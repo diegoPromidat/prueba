@@ -1,0 +1,26 @@
+{
+    "id": "8D005A70",
+    "path": "~/Documents/GitHub/prueba/dependencies.R",
+    "project_path": "dependencies.R",
+    "type": "r_source",
+    "hash": "1087385103",
+    "contents": "",
+    "dirty": false,
+    "created": 1718812694244.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,14",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718812700,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718812700499,
+    "read_only": false,
+    "read_only_alternatives": []
+}

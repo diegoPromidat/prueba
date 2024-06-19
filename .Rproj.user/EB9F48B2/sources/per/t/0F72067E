@@ -1,0 +1,26 @@
+{
+    "id": "0F72067E",
+    "path": "~/Documents/GitHub/prueba/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "2797012896",
+    "contents": "",
+    "dirty": false,
+    "created": 1718812691593.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "53,20",
+        "scrollLine": "25"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718817661,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718817661261,
+    "read_only": false,
+    "read_only_alternatives": []
+}
