@@ -1,0 +1,22 @@
+.disabled {
+  background: #eee;
+  cursor: default;
+  color: black;
+}
+
+.tab-content {
+  position: relative;
+  overflow-y: hidden;
+}
+
+.nav-tabs-custom > .tab-content {
+    background: #fff;
+    padding: 0 0 0 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.tab-content > .active {
+    display: block;
+    padding: 10px 10px 10px 10px;
+}
